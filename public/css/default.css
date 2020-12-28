@@ -1,0 +1,39 @@
+:root {
+    /* 主题 */
+    --color-theme: #1296db;
+    /* 背景颜色 */
+    --color-bg: #ffffff;
+    /* 导航栏背景颜色 */
+    --color-category-bg: #ddd5d5;
+    /* 导航宽度*/
+    --height-category: 60px;
+    /* 内容块boby_header背景颜色 */
+    --color-boby-header-bg: #f8f5f5;
+    /* 内容块boby_main背景颜色 */
+    --color-boby-main-bg: #f8f5f5;
+    /* 
+    ------------------------------------
+    ico style
+     */
+    /* ico位置 */
+    --el-ico-position: absolute;
+    /* ico 距离顶部 */
+    --el-ico-top: 20px;
+    /* ico颜色 */
+    --el-ico-color: rgb(119, 107, 107);
+    /* ico大小 */
+    --el-ico-font-size: 20px;
+    /* ico 是否可以拖拽 */
+    --no-drag: no-drag;
+    /* 卫衣 hover 颜色 */
+    --color-weiyi-hover: rgb(207, 113, 36);
+    /* ico hover 颜色 */
+    --el-ico-color-hover: rgb(56, 54, 54);
+    /* 
+    ------------------------------------
+     */
+}
+
+body {
+    margin: 0;
+}
